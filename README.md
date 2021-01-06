@@ -12,3 +12,4 @@
 <ul>When wanting to use a function elsewhere, use "var = function()"</ul>
 <ul>Using if/else to play rounds</ul>
 <ul>If a variable is equal to a number then no declaration is needed (yet to work on this one)</ul>
+<ul>Using 'break' to stop loops</ul>

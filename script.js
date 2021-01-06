@@ -33,8 +33,7 @@ function playerChoice() {
       }
       }                                                                                                       //playRound function declaration
     
-  var n = 5;
-  for(var i=0;i < n;i++) {
+  for(var i=0;i=5;i++) {
       const playerSelection = playerChoice();
     const computerSelection = computerPlay();
       console.log (playRound(playerSelection, computerSelection));
@@ -43,8 +42,10 @@ function playerChoice() {
       console.log ("Computer\'s Score is " + computerScore);
     if (playerScore === 5) {
       console.log ("You win! You beat the computer!");
+      break;
     } else if (computerScore === 5) {
-      console.log ("You lose! You lost against a machine!")
+      console.log ("You lose! You lost against a machine!");
+      break;
     }
     }
   
