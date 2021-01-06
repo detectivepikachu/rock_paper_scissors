@@ -10,3 +10,5 @@
 <ul>If your code is not working as a whole then try testing it in parts</ul>
 <ul>The inportance of saving versions on github</ul>
 <ul>When wanting to use a function elsewhere, use "var = function()"</ul>
+<ul>Using if/else to play rounds</ul>
+<ul>If a variable is equal to a number then no declaration is needed (yet to work on this one)</ul>
